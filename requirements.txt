@@ -1,0 +1,8 @@
+pandas
+seaborn
+numpy
+warnings
+matplotlib
+sklearn
+plotly
+python==3.8
